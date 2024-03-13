@@ -1,0 +1,18 @@
+p {
+    white-space: pre-line;
+}
+input{
+background-color: pink;
+border: 5px solid palevioletred ;
+box-shadow: 1px;
+}
+label{
+    color: red;
+    font-weight: bolder;
+}
+button{
+    background-color: red;
+    color: white;
+    width:100px;
+    
+}
